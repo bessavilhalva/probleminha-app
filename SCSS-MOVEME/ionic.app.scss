@@ -1,0 +1,29 @@
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.input-div {
+	border-radius: 3px;
+	border: 1px solid #bfc4c6;
+	outline: none;
+	opacity: .1;
+	background-color: #020202;
+}
+
+.input-div: hover {
+	background-color: #000000;
+	opacity: .2;
+}
+
+.span {
+	color: #fff;
+	content: "\f007";
+	font: Tahoma 6px;
+}
+
+#_label-0 {
+	color: #fff;
+}
+
+.img {
+	color: #fff;
+}
+
